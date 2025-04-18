@@ -1,7 +1,7 @@
 # Brain-Tumor-Classification
 
 [Dataset used](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data)   
-- `Brain Tumor MRI.pdf` is the detailed report detailed report
+- `Brain Tumor MRI.pdf` is the detailed report
 - `model1.ipynb` is the code for the custom model implemention
 - `vgg19.ipynb` is the code for feature extraction of VGG19 model for the task, **ImageNet** weights were used
 - `resnet50_scratch_ipynb` is the code for resnet50 implementation from scratch in tensorflow
